@@ -4,7 +4,7 @@
 <h2 align="center">Esse foi um projeto feito para o aprendizado</h2>
 <br>
 <br>
-<h3 align="center">Tecnologias Utilizadas</h3> 
+<h3 align="center">:computer:Tecnologias Utilizadas</h3> 
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" align="center">
